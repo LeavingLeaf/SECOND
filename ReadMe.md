@@ -42,3 +42,6 @@ Regional Proposal Neural Network
 - [ ]  De-convolution (Up-Sampling)
 - [ ]  Concentration
 - [ ]  Regression
+
+Note
+https://www.notion.so/babe730f76da4281b451df2c6b7be3dd?v=4d240bfa8b6b4603a3962004a7b47538
